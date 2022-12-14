@@ -1,0 +1,14 @@
+{
+  "name": "lecture3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lecture3.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
